@@ -1,0 +1,9 @@
+/Users/wibavier/workspace/alexa-skill/src/main/java/example/Hello.java
+/Users/wibavier/workspace/alexa-skill/src/main/java/com/amazon/audiblecambridgehshelloworldalexaskill/helloworld/handlers/MovieFinderIntentHandler.java
+/Users/wibavier/workspace/alexa-skill/src/main/java/com/amazon/audiblecambridgehshelloworldalexaskill/helloworld/handlers/SessionEndedRequestHandler.java
+/Users/wibavier/workspace/alexa-skill/src/main/java/com/amazon/audiblecambridgehshelloworldalexaskill/helloworld/handlers/HelpIntentHandler.java
+/Users/wibavier/workspace/alexa-skill/src/main/java/com/amazon/audiblecambridgehshelloworldalexaskill/helloworld/handlers/LaunchRequestHandler.java
+/Users/wibavier/workspace/alexa-skill/src/main/java/com/amazon/audiblecambridgehshelloworldalexaskill/helloworld/handlers/CancelandStopIntentHandler.java
+/Users/wibavier/workspace/alexa-skill/src/main/java/com/amazon/audiblecambridgehshelloworldalexaskill/helloworld/handlers/FallbackIntentHandler.java
+/Users/wibavier/workspace/alexa-skill/src/main/java/com/amazon/audiblecambridgehshelloworldalexaskill/helloworld/handlers/HelloWorldIntentHandler.java
+/Users/wibavier/workspace/alexa-skill/src/main/java/com/amazon/audiblecambridgehshelloworldalexaskill/helloworld/handlers/GiveAllMovieDetailsIntentHandler.java
